@@ -19,7 +19,6 @@ p {
   }
 }
 nav a {
-  color: black;
   text-align: center;
   text-decoration: none;
   padding-left: 20px;
@@ -27,6 +26,10 @@ nav a {
 }
 nav {
   background-color: pink;
+}
+a {
+  text-decoration: none;
+  color: black;
 }
 a:hover {
   color: pink;
